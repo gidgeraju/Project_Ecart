@@ -1,0 +1,23 @@
+.heading-login {
+  text-align: center;
+  color: rgb(219, 58, 85);
+}
+.inputs-login {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  box-sizing: border-box;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  color: #333;
+}
+.login-btn {
+  padding: 20px;
+}
+.btn-text2 {
+  padding: 10px;
+}
+

@@ -1,0 +1,27 @@
+.cartem {
+ 
+  text-align: center;
+}
+.carth {
+  
+  text-align: center;
+}
+.imagec {
+  width: 150px;
+  height: auto;
+  max-height: 200px;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+.page {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.back {
+  display: flex;
+  align-items: center;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+}

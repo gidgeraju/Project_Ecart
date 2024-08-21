@@ -1,0 +1,18 @@
+.pic {
+  width: 100vw;
+  height: 350px;
+}
+.caption {
+  text-align: center;
+  font-size: 20px;
+}
+
+.map {
+  height: 350px;
+  width: 500px;
+  display: flex;
+  margin-left: 345px;
+  justify-items: center;
+  align-items: center;
+  justify-content: center;
+}
